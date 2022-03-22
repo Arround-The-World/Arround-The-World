@@ -1,16 +1,15 @@
-# Forum App in React & Redux + Django
+# Arround The World
 
 ```
-Forum App, with a frontend built in React & Redux and a backend built in Django API.
+Arround The Wolrd project with a frontend built in React & Redux and a backend built in Django API.This peoject is a mini travel web application where you can explore the different places all over the world and you can check the directions and you can keep a list of your favorite places.You can also find the time and type of trip to visit a particular place.
 ```
 
 ## Live Demo
 
 **This App uses a Heroku free plan, so I am afraid that it takes time to load the pages.**
 
-Check out [FRONTEND LIVE DEMO](https://forum-prod-frontend.herokuapp.com/) here!!
+Check out [FRONTEND LIVE DEMO](https://arroundtheworld-frontend.herokuapp.com/) here!!
 
-Check out [API LIVE DEMO](https://forum-prod-api.herokuapp.com/) here!!
 
 ## Tech used
 
